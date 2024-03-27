@@ -1,6 +1,6 @@
 import pj2 from "../../assets/img/projects/pj2.png";
 import pj4 from "../../assets/img/projects/pj4.png";
-import pj4 from "../../assets/img/projects/pj3.png";
+import pj3 from "../../assets/img/projects/pj3.png";
 
 export const Data = [
   {
